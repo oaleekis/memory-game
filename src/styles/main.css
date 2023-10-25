@@ -97,13 +97,7 @@ h2 {
     justify-content: space-between;
 }
 
-.points {
-    display: flex;
-}
-.time {
-    display: flex;
-}
-/* On screens that are 600px or less, set the background color to olive */
+
 @media screen and (max-width: 600px) {
     .item { 
         width: 80px;
